@@ -1,0 +1,13 @@
+C:\Users\Nicolle\Documents\POO\Universidad\bin\Debug\netcoreapp3.1\Universidad.exe
+C:\Users\Nicolle\Documents\POO\Universidad\bin\Debug\netcoreapp3.1\Universidad.deps.json
+C:\Users\Nicolle\Documents\POO\Universidad\bin\Debug\netcoreapp3.1\Universidad.runtimeconfig.json
+C:\Users\Nicolle\Documents\POO\Universidad\bin\Debug\netcoreapp3.1\Universidad.runtimeconfig.dev.json
+C:\Users\Nicolle\Documents\POO\Universidad\bin\Debug\netcoreapp3.1\Universidad.dll
+C:\Users\Nicolle\Documents\POO\Universidad\bin\Debug\netcoreapp3.1\Universidad.pdb
+C:\Users\Nicolle\Documents\POO\Universidad\obj\Debug\netcoreapp3.1\Universidad.csprojAssemblyReference.cache
+C:\Users\Nicolle\Documents\POO\Universidad\obj\Debug\netcoreapp3.1\Universidad.AssemblyInfoInputs.cache
+C:\Users\Nicolle\Documents\POO\Universidad\obj\Debug\netcoreapp3.1\Universidad.AssemblyInfo.cs
+C:\Users\Nicolle\Documents\POO\Universidad\obj\Debug\netcoreapp3.1\Universidad.csproj.CoreCompileInputs.cache
+C:\Users\Nicolle\Documents\POO\Universidad\obj\Debug\netcoreapp3.1\Universidad.dll
+C:\Users\Nicolle\Documents\POO\Universidad\obj\Debug\netcoreapp3.1\Universidad.pdb
+C:\Users\Nicolle\Documents\POO\Universidad\obj\Debug\netcoreapp3.1\Universidad.genruntimeconfig.cache
